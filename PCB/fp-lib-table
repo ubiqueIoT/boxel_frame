@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Boxel_Footprints")(type "KiCad")(uri "${KIPRJMOD}/Boxel_Footprints.pretty")(options "")(descr ""))
+)
